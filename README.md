@@ -20,8 +20,8 @@ I am an Undergraduate CS Researcher for USC's Information Science Institute (ISI
 I am a Frontend Developer for USC's Trojan Event Services (https://trojanevents.usc.edu).
   - Currently working alongside the Assistant Director of the Trojan Event Services to help build out the TES website content, design, and system (Link attached is the old site that I am trying to fix).
 
-I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I developed mathematics, probability, and problem-solving skills at the IMC headquarters in Chicago, IL. 
+I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I developed mathematics, probability, and problem-solving skills at the IMC headquarters in Chicago, IL (https://www.imc.com/us/).
 
-I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering focusing on diversity, inclusion, and development in August 2022.
+I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering focusing on diversity, inclusion, and development in August 2022 (https://jobs.target.com/job/minneapolis/2022-diversity-leadership-symposium-software-engineering/1118/24510133728).
 
 If you want to reach out, please reach out at pbkim@usc.edu or https://www.linkedin.com/in/paulkim7065/
