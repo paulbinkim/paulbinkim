@@ -18,7 +18,7 @@ I am an Undergraduate CS Researcher for USC's Information Science Institute (ISI
   - Directly involved in the SMELL-CPS Project (Reverse Engineering Source Code), and the NeuroloT Project (Neurological/Human Alignment with IoT).
 
 I am a Frontend Developer for USC's Trojan Event Services (https://trojanevents.usc.edu).
-  - Currently working alongside the Assistant Director of the Trojan Event Services to help build out the TES website content, design, and system (Link attached is the old site, that I am trying to fix).
+  - Currently working alongside the Assistant Director of the Trojan Event Services to help build out the TES website content, design, and system (Link attached is the old site that I am trying to fix).
 
 I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I developed mathematics, probability, and problem-solving skills at the IMC headquarters in Chicago, IL. 
 
