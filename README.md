@@ -1,5 +1,7 @@
 My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects that I have been working on so far.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **Tech Stacks:**
 
 **Backend:** Java, Python, C++/C, Spring, Relational Databases (SQL, MySQL, MongoDB).
@@ -7,6 +9,9 @@ My name is Paul Kim, and I am a Junior studying Computer Science and Mathematica
 **Frontend:** JavaScript, React.js, Bootstrap, Software as a Service (SaaS), HTML5/CSS3.
 
 **Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **As for current technical experiences:**
 
@@ -24,4 +29,6 @@ I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I deve
 
 I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering focusing on diversity, inclusion, and development in August 2022 (https://jobs.target.com/job/minneapolis/2022-diversity-leadership-symposium-software-engineering/1118/24510133728).
 
-If you want to reach out, please reach out at pbkim@usc.edu or https://www.linkedin.com/in/paulkim7065/
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+If you want to reach out, please reach out at pbkim@usc.edu or connect with me on LinkedIn at https://www.linkedin.com/in/paulkim7065/
