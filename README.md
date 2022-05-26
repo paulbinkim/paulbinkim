@@ -10,7 +10,7 @@ My name is Paul Kim, and I am a Junior studying Computer Science and Mathematica
 
 **Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
 
-As for technical experiences:
+**As for current technical experiences:**
 
 I am currently a Software Engineer intern for the Scholars of Finance National Team (https://scholarsoffinance.org). 
   - Currently developing and working to develop new systems and applications to improve the efficiency and delivery of the SOF platform.
@@ -26,4 +26,4 @@ I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I deve
 
 I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering focusing on diversity, inclusion, and development in August 2022.
 
-If you want to reach out, please email me at pbkim@usc.edu. I look forward to our connection!
+If you want to reach out, please reach out at pbkim@usc.edu or https://www.linkedin.com/in/paulkim7065/
