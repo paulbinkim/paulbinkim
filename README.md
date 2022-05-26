@@ -32,7 +32,9 @@ I am a Project Developer for Quant SC (https://quantsc.org)
 
 I was involved in the 2022 IMC Trading Launchpad Program (May 2022) where I developed mathematics, probability, and problem-solving skills at the IMC headquarters in Chicago, IL (https://www.imc.com/us/).
 
-I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering focusing on diversity, inclusion, and development in August 2022 (https://jobs.target.com/job/minneapolis/2022-diversity-leadership-symposium-software-engineering/1118/24510133728).
+I am also one of the 100 rising juniors selected for Target's 2022 Diversity Leadership Symposium - Software Engineering, focusing on diversity, inclusion, and development in August 2022 (https://jobs.target.com/job/minneapolis/2022-diversity-leadership-symposium-software-engineering/1118/24510133728).
+
+Lastly, I am currently a Mentee under an Engineering-Lead at Uber through USC Viterbi's Mentoring Program.
 
 **Previous technical experiences**
 - Microsoft Mentoring Program
