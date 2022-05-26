@@ -4,7 +4,7 @@ My name is Paul Kim, and I am a Junior studying Computer Science and Mathematica
 
 **Backend:** Java, Python, C++/C, Spring, Relational Databases (SQL, MySQL, MongoDB).
 
-**Frontend:** JavaScript, React.js, Bootstrap, Software as a Service (Saas), HTML5/CSS3.
+**Frontend:** JavaScript, React.js, Bootstrap, Software as a Service (SaaS), HTML5/CSS3.
 
 **Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
 
