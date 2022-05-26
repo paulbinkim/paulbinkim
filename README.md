@@ -12,7 +12,7 @@ My name is Paul Kim, and I am a Junior studying Computer Science and Mathematica
 
 **As for current technical experiences:**
 
-I am currently a Software Engineer intern for the Scholars of Finance National Team (https://scholarsoffinance.org). 
+I am currently a Software Engineer Intern for the Scholars of Finance National Team (https://scholarsoffinance.org). 
   - Currently developing and working to develop new systems and applications to improve the efficiency and delivery of the SOF platform.
  
 I am an Undergraduate Research Assistant for USC's Information Science Institute (ISI) under Dr. Luis Garcia (https://www.isi.edu).
