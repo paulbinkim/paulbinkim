@@ -1,12 +1,14 @@
-Hi 😄! My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects that I have been working on so far.
+Hi 😄! 
 
-Tech Stacks:
+My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects that I have been working on so far.
 
-Backend: Java, Python, C++/C, Spring, Relational Databases (SQL, MySQL, MongoDB).
+**Tech Stacks:**
 
-Frontend: JavaScript, React.js, Bootstrap, Software as a Service (Saas), HTML5/CSS3.
+**Backend:** Java, Python, C++/C, Spring, Relational Databases (SQL, MySQL, MongoDB).
 
-Tools: AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
+**Frontend:** JavaScript, React.js, Bootstrap, Software as a Service (Saas), HTML5/CSS3.
+
+**Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
 
 As for technical experiences:
 
