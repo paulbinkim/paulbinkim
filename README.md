@@ -1,4 +1,4 @@
-My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects that I have been working on so far.
+My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects and other code that I have been working on so far.
 
 Personal Website: https://paulbinkim.github.io
 
@@ -15,7 +15,7 @@ Personal Website: https://paulbinkim.github.io
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **Mentorship**
 - Current Mentee under an Engineering-Lead at Uber through USC Viterbi's Mentoring Program.
-- Microsoft Mentoring Program (2020 - 2020)
+- Microsoft Mentoring Program (Sep 2020 - Dec 2020)
 
 **Current Involvement:**
 
