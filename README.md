@@ -22,11 +22,10 @@ Personal Website: [https://paulbinkim.github.io](https://paulbinkim.github.io)
 
 - Software Engineer Intern for the Scholars of Finance National Team (https://scholarsoffinance.org). (May 2022 - Current)
 - Undergraduate CS Researcher for USC's Information Science Institute (ISI) under Dr. Luis Garcia (https://www.isi.edu). (May 2022 - Current)
-- I am a Frontend Developer for USC's Trojan Event Services. (May 2022 - Current)
+- Frontend Developer for USC's Trojan Event Services. (May 2022 - Current)
 - Project Developer for Quant SC (https://quantsc.org). (Sep 2021 - Current)
 
 **Previous Experiences**
-- 2022 IMC Trading Launchpad Program (May 2022)
 - Web Publisher, Graphics Designer at Daebak Hawaii News (Jan 2018 - June 2020)
 
 **Upcomming Experiences**
