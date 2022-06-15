@@ -19,7 +19,7 @@ Personal Website: [https://paulbinkim.github.io](https://paulbinkim.github.io)
 - Microsoft Mentoring Program (Sep 2020 - Dec 2020)
 
 **Current Involvement:**
-
+- Lyft 2022 Early Talent Program (June 2022 - Current)
 - Software Engineer Intern for the Scholars of Finance National Team (https://scholarsoffinance.org). (May 2022 - Current)
 - Undergraduate CS Researcher for USC's Information Science Institute (ISI) under Dr. Luis Garcia (https://www.isi.edu). (May 2022 - Current)
 - Frontend Developer for USC's Trojan Event Services. (May 2022 - Current)
