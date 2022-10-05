@@ -14,7 +14,7 @@ LinkedIn: [https://www.linkedin.com/in/paulkim7065/](https://www.linkedin.com/in
 **Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-**Upcomming:**
+**Upcoming:**
 - Software Development Engineering Intern for Amazon (Summer 2023 @ Seattle Washington)
 
 **Current Involvement:**
