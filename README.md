@@ -14,13 +14,7 @@ LinkedIn: [https://www.linkedin.com/in/paulkim7065/](https://www.linkedin.com/in
 **Tools:** AWS, Azure, Docker, Git, Figma, Firebase, AirTable, Softr.io.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-**Mentorship**
-- Current Mentee under an Engineering-Lead at Uber through USC Viterbi's Mentoring Program.
-- Current Mentee under an Amazon Engineering Manager.
-- Current Mentee under a Managing Director at Morgan Stanley.
-- Microsoft Mentoring Program (Sep 2020 - Dec 2020)
-
-**Upcomming**
+**Upcomming:**
 - Software Development Engineering Intern for Amazon (Summer 2023 @ Seattle Washington)
 
 **Current Involvement:**
@@ -34,6 +28,12 @@ LinkedIn: [https://www.linkedin.com/in/paulkim7065/](https://www.linkedin.com/in
 - 2022 Target Divesity Leadership Symposium - Software Engineering (August 2022)
 - Lyft 2022 Early Talent Program (June 2022 - July 2022)
 - Web Publisher, Graphics Designer at Daebak Hawaii News (Jan 2018 - June 2020)
+
+**Mentorship**
+- Current Mentee under an Engineering-Lead at Uber through USC Viterbi's Mentoring Program.
+- Current Mentee under an Amazon Engineering Manager.
+- Current Mentee under a Managing Director at Morgan Stanley.
+- Microsoft Mentoring Program (Sep 2020 - Dec 2020)
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
