@@ -1,4 +1,4 @@
-My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all the school projects (private) and other code that I have been working on so far.
+My name is Paul Kim, and I am a Junior studying Computer Science and Mathematical Finance at the University of Southern California. In my GitHub repo, I organized a repository for all school projects (private) and other code that I have been working on so far.
 
 Personal Website: [https://paulbinkim.github.io](https://paulbinkim.github.io)
 
