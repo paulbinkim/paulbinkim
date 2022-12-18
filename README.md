@@ -19,12 +19,12 @@ LinkedIn: [https://www.linkedin.com/in/paulkim7065/](https://www.linkedin.com/in
 
 **Current Involvement:**
 - Software Engineer Intern for the Scholars of Finance National Team (https://scholarsoffinance.org). (May 2022 - Current)
+- Undergraduate CS Researcher for USC's Information Science Institute under Dr. Luis Garcia. (May 2022 Current)
 - Frontend Developer for USC's Trojan Event Services. (May 2022 - Current)
 - Teaching Assistant (Programming in C++ | Data Structures and OOP) (Jan 2022 - Current)
 - Project Developer for Quant SC (https://quantsc.org). (Sep 2021 - Current)
 
 **Previous Experiences**
-- Undergraduate CS Researcher for USC's Information Science Institute (ISI) under Dr. Luis Garcia. (May 2022 - Dec 2022)
 - 2022 Target Divesity Leadership Symposium - Software Engineering (August 2022)
 - Lyft 2022 Early Talent Program (June 2022 - July 2022)
 - Web Publisher, Graphics Designer at Daebak Hawaii News (Jan 2018 - June 2020)
